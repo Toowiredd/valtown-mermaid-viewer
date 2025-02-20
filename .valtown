@@ -1,0 +1,20 @@
+{
+  "vals": {
+    "mermaid_viewer": {
+      "file": "vals/mermaid_viewer.tsx",
+      "public": true
+    },
+    "analyze_mermaid": {
+      "file": "vals/analyze_handler.ts",
+      "public": true
+    },
+    "history_handlers": {
+      "file": "vals/history_handlers.ts",
+      "public": true
+    },
+    "kv_handlers": {
+      "file": "vals/kv_handlers.ts",
+      "public": true
+    }
+  }
+}
