@@ -1,0 +1,22 @@
+{
+  "repo": "Toowiredd/valtown-mermaid-viewer",
+  "branch": "main",
+  "files": [
+    {
+      "path": "src/MermaidViewer.tsx",
+      "val": "toowired/MermaidViewer"
+    },
+    {
+      "path": "src/api/analyze.ts",
+      "val": "toowired/analyze_mermaid"
+    },
+    {
+      "path": "src/api/history.ts",
+      "val": "toowired/history_handlers"
+    },
+    {
+      "path": "src/api/kv.ts",
+      "val": "toowired/kv_handlers"
+    }
+  ]
+}
